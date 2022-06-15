@@ -1,21 +1,19 @@
 body {
+  background-color: rgb(243, 242, 234);
   margin: 0;
 }
 
 .App {
   font-family: sans-serif;
   text-align: center;
-  display: flex;
   align-items: center;
+  display: block;
+  margin-top: 40vh;
   justify-content: center;
-  height: 100vh;
-}
-.Bigbutt {
-  display:block;
-  color:brown;
-  float: left;
+  /* height: 100vh; */
 }
 
 h1 {
+  color: rgb(6, 136, 125);
   font-size: 60px;
 }
