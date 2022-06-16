@@ -5,16 +5,12 @@ body {
 .App {
   font-family: sans-serif;
   text-align: center;
-  display: flex;
+  display: block;
   align-items: center;
   justify-content: center;
-  height: 100vh;
+  margin-top: 45vh;
 }
-.Bigbutt {
-  display:block;
-  color:brown;
-  float: left;
-}
+
 
 h1 {
   font-size: 60px;
